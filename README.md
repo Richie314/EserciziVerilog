@@ -2,7 +2,8 @@
 
 Ecco una lista di mie soluzioni a molti testi d'esame del corso di Reti Logiche del Corso di Laurea triennale in Ingegneria Informatica di UniPI.
 
-I testi d'esame qui riportati in pdf provengono dal [sito del professor Stea](https:// "Vai al sito"), che contiene anche le soluzioni ufficiali agli esami
+I testi d'esame qui riportati in pdf provengono dal 
+[sito del professor Stea](http://docenti.ing.unipi.it/~a080368/Teaching/RetiLogiche/Testi.html "Vai al sito"), che contiene anche le soluzioni ufficiali agli esami
 
 ## Come eseguire
 
